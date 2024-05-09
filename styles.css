@@ -1,0 +1,87 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  background-color: black;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.profile {
+  background-color: hsl(0, 0%, 12%);
+  text-align: center;
+  border: 1px solid black;
+  width: 400px;
+  height: 520px;
+  margin-left: 425px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+
+.jessica {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+
+.london {
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 0;
+  color: rgb(192, 255, 4);
+}
+
+.developer {
+  color: white;
+}
+
+.github,
+.frontend,
+.linkedin,
+.twitter,
+.instagram {
+ background-color: hsl(0, 0%, 20%); 
+ color: white;
+ font-weight: bold;
+ width: 300px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ margin-left: 50px;
+ border-radius: 10px;
+ text-align: center;
+ cursor: pointer;
+}
+
+.github:active {
+  background-color: rgb(192, 255, 4);
+}
+
+.frontend:active {
+  background-color: rgb(192, 255, 4);
+}
+
+.linkedin:active {
+  background-color: rgb(192, 255, 4);
+}
+
+.twitter:active {
+  background-color: rgb(192, 255, 4);
+}
+
+.instagram:active {
+  background-color: rgb(192, 255, 4);
+}
+
+
+
